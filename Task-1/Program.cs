@@ -37,8 +37,6 @@ namespace Task_1
             double perimetr = 2*3.14*radius;
             Console.WriteLine($"Area of a circle : {area}");
             Console.WriteLine($"Perimetr of a circle : {perimetr}");
-
-
         }
     }
 }
