@@ -12,13 +12,14 @@ namespace Task_1
             NameSurName();
             Math();
         }
+        
         static void Reverse()
-
         {
             Console.WriteLine($"Enter your name :");
             string Name = Console.ReadLine();
             Console.WriteLine("Reverse Name: " + new string(Name.Reverse().ToArray()));
         }
+        
         static void NameSurName()
         {
             Console.WriteLine("Enter FirstName : ");
