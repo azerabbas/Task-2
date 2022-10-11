@@ -8,10 +8,8 @@ namespace Task_1
     {
         static void Main(string[] args)
         {
-            //Reverse();
-
-            //NameSurName();
-
+            Reverse();
+            NameSurName();
             Math();
         }
         static void Reverse()
