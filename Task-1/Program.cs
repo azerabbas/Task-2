@@ -8,6 +8,11 @@ namespace Task_1
     {
         static void Main(string[] args)
         {
+          // 1. Write a C# program that takes three letters as input and display them in reverse order.
+          // 2. Write a C# program that takes 2 inputs form user respectively name and surname, and then print it as "NAME SURNAME" (both uppercase) in console
+          // 3. Write a C# program that takes the radius of a circle as input and calculate the perimeter and area of the circle and print it in console
+          // 4. Make a lot of exercises with different types and try to understand important aspects
+            
             Reverse();
             NameSurName();
             Math();
